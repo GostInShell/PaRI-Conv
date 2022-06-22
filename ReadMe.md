@@ -1,6 +1,6 @@
 # The Devil is in the Pose: Ambiguity-free 3D Rotation-invariant Learning via Pose-aware Convolution (CVPR, 2022)"
 **The Devil is in the Pose: Ambiguity-free 3D Rotation-invariant Learning via Pose-aware Convolution**<br>
-by Ronghan Chen, Yang Cong<br>
+by [Ronghan Chen](https://scholar.google.com/citations?user=NH4NtmMAAAAJ&hl=zh-CN&oi=ao), [Yang Cong](https://scholar.google.com/citations?user=iUUu8PkAAAAJ&hl=zh-CN&oi=ao)<br>
 in CVPR, 2022. [Arxiv](https://arxiv.org/abs/2205.15210)
 
 **If you have any question about the code or the paper, don't hesitate and open an issuse!😉**
