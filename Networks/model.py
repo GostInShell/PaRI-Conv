@@ -1,7 +1,6 @@
 import torch
 import torch.nn as nn
 # from torch.nn import Sequential as Seq, Dropout, Linear as Lin, ReLU, BatchNorm1d as BN
-from .Module import MLP_Choice
 import torch.nn.functional as F
 import numpy as np
 
