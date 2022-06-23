@@ -58,7 +58,6 @@ If you find this work useful, please citing the paper:
 ## Acknowledgement
 - The code framework is borrowed from [3D-CODED](https://github.com/ThibaultGROUEIX/3D-CODED)
 - The code for classification architecture is borrowed from [DGCNN](https://github.com/WangYueFt/dgcnn)
-- Thanks for 
 
 ## TODO
 Code on ScanObjectNN and ShapeNetPart.
