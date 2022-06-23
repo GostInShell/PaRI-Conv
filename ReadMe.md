@@ -32,7 +32,7 @@ To train a model under `SO(3)` or `z` rotations:
     sh scripts/PaRINet_so3.sh 
     sh scripts/PaRINet_rot_z.sh 
 
-Best model will be saved to `log/PaRINet_***/best`.
+Best model will be saved at `log/PaRINet_***/best`.
 And you can evaluate them by running:
 
     sh scripts/test_PaRINet_rot_z.sh
