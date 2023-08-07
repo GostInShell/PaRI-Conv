@@ -39,8 +39,8 @@ class Trainer(object):
     def build_dataset(self):
         ####################### dataset #########################
 
-        # root = 'dataset/modelnet40_normal_resampled'
-        root = '/data1/crh/Data/modelnet40_normal_resampled'
+        root = 'dataset/modelnet40_normal_resampled'
+        # root = '/data1/crh/Data/modelnet40_normal_resampled'
         '''
         Please download ModelNet40 at https://shapenet.cs.stanford.edu/media/modelnet40_normal_resampled.zip (1.6G).
         '''
